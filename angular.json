@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "zada-front"
+    }
+  },
+  "defaultProject": "zada-front",
+  "cli": {
+    "analytics": false
+  }
 }
